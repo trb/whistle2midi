@@ -57,6 +57,8 @@ pip-log.txt
 *.rar
 *.tar
 *.zip
+*.wav
+*.midi
 
 # Logs and databases #
 ######################
